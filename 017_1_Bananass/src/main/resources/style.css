@@ -1,0 +1,19 @@
+
+.root{
+-fx-background-color: #ccff99;
+-fx-background-color: linear-gradient(to top, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 19%, rgba(0,212,255,1) 100%);
+-fx-background-image: url("i1.jpg");
+-fx-background-size: cover;
+}
+
+.button{
+	-fx-background-color: green;
+	
+}
+.button:hover{
+-fx-background-color: yellow;
+}
+#pumuckel{
+-fx-border-color: rgb(49,89,23);
+-fx-effect: dropshadow(three-pass-box,yellow, 20,0,0,9);
+}
